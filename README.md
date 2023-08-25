@@ -2,7 +2,7 @@
 ___________________________________________________________________________________________________________________________________________________________________
 **Project Overview:**
 
-I have created 2 reports for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
+I have created reports for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
 
 These are the sales report of AtliQ Hardware, implemented with the help of excel pivot tables and Power Pivot (for data modelling) enabling businesses to determine effective customer revenue, facilitate negotiations with consumers based on their revenue generation, and identify potential expansion of business in promising countries. The reports will provide insights and recommendations for the company to optimize their sales strategies, enhance customer satisfaction, and maximize revenue generation.
 ___________________________________________________________________________________________________________________________________________________________________
