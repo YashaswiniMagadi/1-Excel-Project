@@ -21,3 +21,7 @@ Overall, this project aims to empower businesses with the necessary reports and 
 ___________________________________________________________________________________________________________________________________________________________________
 
 This repository has the datasets used for reports generation, and the reports in the form of seperate pdf files.
+
+**Reports Link :** https://github.com/YashaswiniMagadi/1-Excel-Project/tree/main/Reports
+
+**LinkedIN Post Link :** https://www.linkedin.com/feed/update/urn:li:activity:7100917188609384449/
